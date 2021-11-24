@@ -1,8 +1,8 @@
 const request = require("request");
 
 const json = {
-  nombre: "Cesar Chavez",
-  apellido: "Gonzalez",
+  nombre: "Victor",
+  apellido: "Valadez",
 };
 
 request.post(
